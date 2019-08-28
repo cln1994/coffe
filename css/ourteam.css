@@ -1,0 +1,72 @@
+.ourteam {
+  margin-bottom: 36px;
+}
+
+
+.or-top {
+  margin-left: 25px;
+}
+.or-top h2 {
+  margin-top: 3px;
+  font-size: 12px;
+  color: #333333;
+}
+.or-top h2 span {
+  font-size: 16px;
+}
+.or-top h3 {
+  margin-top: 9px;
+  font-size: 14px;
+  color: #999999;
+  font-weight: normal;
+}
+.or-top > p {
+  font-size: 14px;
+  color: #999999;
+  text-indent: 28px;
+  line-height: 26px;
+  margin-top: 28px;
+  text-align: justify;
+}
+.or-bottom {
+  align-items: flex-end;
+  height: 293px;
+}
+.orb-item {
+  width: 154px;
+  position: relative;
+}
+.orb-item img {
+  width: 154px;
+  height: 293px;
+  position: absolute;
+  bottom: -1px;
+}
+.orb-item p:nth-child(1) {
+  width: 154px;
+  border-bottom: 1px solid #d5d5d5;
+  position: relative;
+}
+.orb-item p:nth-child(1) span {
+  width: 23px;
+  border-bottom: 1px solid #666666;
+  z-index: 4;
+  position: absolute;
+  margin-left: 50px;
+}
+
+.orb-item p:nth-child(2) {
+  padding-left: 50px;
+ font-size: 14px;
+ color: #333333;
+ margin-top: 17px;
+}
+.orb-item p:nth-child(3) {
+  padding-left: 50px;
+ font-size: 14px;
+ color: #999999;
+ margin-top: 11px;
+}
+
+
+
